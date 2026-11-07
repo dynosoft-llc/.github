@@ -19,4 +19,8 @@ Based in Kissimmee, Florida, United States.
 
 Desarrollamos software empresarial modular para conectar equipos, clientes y operaciones en un mismo espacio. Queremos que aprender a usar las herramientas sea sencillo y que el trabajo diario tome menos pasos.
 
+**Dominio oficial / Official domain** · `dynosoft.co`
+
+**Contacto / Contact** · [contact@dynosoft.co](mailto:contact@dynosoft.co)
+
 [Conoce Dynosoft en español](https://dynosoft-landing-page.web.app/) · [Explore Dynosoft in English](https://dynosoft-landing-page.web.app/en)
