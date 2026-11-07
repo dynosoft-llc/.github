@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://dynosoft-landing-page.web.app/en">
-    <img src="https://dynosoft-landing-page.web.app/dynosoft/dynosoft_symbol.png" alt="Dynosoft" width="112">
+  <a href="https://dynosoft.co/en">
+    <img src="https://dynosoft.co/dynosoft/dynosoft_symbol.png" alt="Dynosoft" width="112">
   </a>
 </p>
 
@@ -23,4 +23,4 @@ Desarrollamos software empresarial modular para conectar equipos, clientes y ope
 
 **Contacto / Contact** · [contact@dynosoft.co](mailto:contact@dynosoft.co)
 
-[Conoce Dynosoft en español](https://dynosoft-landing-page.web.app/) · [Explore Dynosoft in English](https://dynosoft-landing-page.web.app/en)
+[Conoce Dynosoft en español](https://dynosoft.co/) · [Explore Dynosoft in English](https://dynosoft.co/en)
